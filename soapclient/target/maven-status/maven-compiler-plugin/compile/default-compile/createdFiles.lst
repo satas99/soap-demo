@@ -1,0 +1,6 @@
+com\example\soapclient\generate\ItemRequest.class
+com\example\soapclient\SoapclientApplication.class
+com\example\soapclient\generate\package-info.class
+com\example\soapclient\config\SoapConfig.class
+com\example\soapclient\generate\ItemResponse.class
+com\example\soapclient\generate\ObjectFactory.class
