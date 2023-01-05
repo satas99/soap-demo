@@ -1,0 +1,9 @@
+com\example\soapservice\SoapServiceApplication.class
+com\example\soapservice\endpoint\ItemEndPoint.class
+com\example\soapservice\generated\ObjectFactory.class
+com\example\soapservice\generated\ItemRequest.class
+com\example\soapservice\service\ItemServiceImpl.class
+com\example\soapservice\generated\package-info.class
+com\example\soapservice\service\ItemService.class
+com\example\soapservice\config\SoapConfig.class
+com\example\soapservice\generated\ItemResponse.class
